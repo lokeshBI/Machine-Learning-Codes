@@ -1,4 +1,3 @@
-# MachineLearning
-Machine Learning is not a MAGIC but MATH.
-I realized the quote after completing Machine Learning.
-Here you can find MACHINE LEARNING models (as projects) which include both SUPERVISED & UNSUPERVISED learning.
+# Machine Learning
+#### Machine Learning is not a MAGIC but MATH.I realized the quote after completing Machine Learning
+##### Here you can find MACHINE LEARNING models (as projects) which include both SUPERVISED & UNSUPERVISED learning as well as complete ML course
